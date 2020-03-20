@@ -1,0 +1,11 @@
+.sidebar {
+    width: 150px;
+    border: 10px;
+    border-color: black;
+    float: left;
+    padding: 10px;
+}
+
+.sidebar img {
+    max-width: 150px;
+}
