@@ -23,10 +23,20 @@
 
 .panelRight {
     min-width: 300px;
-    max-width: 40%;
+    max-width: 35%;
     min-height: 1000px;
     float: left;
     background-color: #e4d1f3;
     padding: 10px;
     margin: 10px;
+}
+
+.panelImageLeft {
+    float: left;
+    width: 125px;
+}
+
+.panelImageLeft {
+    float: right;
+    width: 125px;
 }
